@@ -1,0 +1,151 @@
+Category,Input,Matched Symbol,Score
+setting,a glowing forest,Forests,0.6454763412475586
+symbol,a black cat with golden eyes,Cat Eyes,0.5984247922897339
+feeling,melancholy,Sadness,0.726984977722168
+metaphor,a search for identity,Identity,0.6956846714019775
+creative_spark,a short story idea,Story,0.5147964954376221
+user_action,open the red door,Door,0.6489484310150146
+setting,an abandoned subway station,Abandoned House,0.6279581189155579
+symbol,a clock with no hands,Clock,0.6871187090873718
+feeling,awe,Beautiful,0.5296643376350403
+metaphor,a confrontation with the past,History,0.6164911389350891
+creative_spark,a painting concept,Painting-Artwork,0.760295569896698
+user_action,climb the endless staircase,Spiral Staircase,0.7450755834579468
+setting,a floating city,Floating,0.5986570119857788
+symbol,a singing tree,Christmas Tree,0.6287487149238586
+feeling,confusion,Confused,0.898148238658905
+metaphor,letting go of control,Control,0.6566088199615479
+creative_spark,a melody fragment,Musical Notes,0.47931018471717834
+user_action,speak to the tree,Tree Trunk,0.568034291267395
+setting,a desert lit by a green moon,Desert,0.5892772674560547
+symbol,a mirror that shows childhood memories,Mirror,0.5043054819107056
+feeling,peace,Peace,1.0
+metaphor,rediscovering joy,Joy,0.7401633858680725
+creative_spark,a stage play setting,Play (Theatrical),0.7891461849212646
+user_action,follow the cat,Following,0.5883182287216187
+setting,a vast library with no exit,Library,0.638824999332428
+symbol,a red door,Door,0.7528484463691711
+feeling,nostalgia,Memories,0.7317900657653809
+metaphor,the weight of memory,Computer Memory,0.6298461556434631
+creative_spark,a poem line,Poem,0.749528706073761
+user_action,look into the mirror,Mirror,0.5702745914459229
+setting,a mountain made of glass,Sea Glass,0.628537654876709
+symbol,a floating candle,Candles,0.6703036427497864
+feeling,fear,Fear,1.0000001192092896
+metaphor,facing inner fears,Fear,0.5869678854942322
+creative_spark,a character sketch,Drawing,0.561778724193573
+user_action,turn the page of the journal,Journal,0.6448619365692139
+setting,a frozen ocean,Ocean,0.6663285493850708
+symbol,a staircase leading into the clouds,Spiral Staircase,0.637496292591095
+feeling,liberation,Freedom,0.704184889793396
+metaphor,a cycle breaking,Break Pedal,0.506173312664032
+creative_spark,a dream journal entry,Remembering Dreams,0.5624043941497803
+user_action,walk into the fog,Fog,0.7295925617218018
+setting,a city with no people,City,0.530882716178894
+symbol,an old photograph,Photographs,0.5938019752502441
+feeling,anticipation,Waiting,0.5350817441940308
+metaphor,creative rebirth,Creativity,0.6292433738708496
+creative_spark,a game design concept,Games,0.4817127287387848
+user_action,touch the candle flame,Flame,0.6434893012046814
+setting,a maze of mirrors,Maze,0.6210330128669739
+symbol,a locked journal,Journal,0.655047595500946
+feeling,longing,Longing,1.0
+metaphor,time standing still,Time,0.5182105302810669
+creative_spark,a sci-fi script hook,Hookie,0.39172112941741943
+user_action,ask the shadow a question,Shadows,0.6812774538993835
+setting,a house with infinite rooms,Rooms,0.6733208298683167
+symbol,a falling star,Falling,0.5791785717010498
+feeling,curiosity,Desire,0.6040470004081726
+metaphor,the duality of self,Self,0.5526789426803589
+creative_spark,a surreal animation sequence,Animation,0.6436216831207275
+user_action,swim under the ice,Ice Skating,0.6041334867477417
+setting,a misty cliffside monastery,Monastery,0.7399967908859253
+symbol,a violin made of ice,Ice Sculpture,0.610442578792572
+feeling,regret,Memories,0.5697432160377502
+metaphor,embracing contradiction,Conflict,0.5531463623046875
+creative_spark,a design for wearable tech,Technology,0.42415571212768555
+user_action,play the violin of ice,Violin,0.6260775327682495
+setting,a clocktower frozen at midnight,Clock Tower,0.6223448514938354
+symbol,a mask that changes faces,Mask,0.6752790808677673
+feeling,serenity,Tranquility,0.5229029655456543
+metaphor,uncovering hidden truth,Deception,0.5327030420303345
+creative_spark,a VR environment concept,Surroundings,0.3793275058269501
+user_action,flip the coin of fate,Luck,0.4936755299568176
+setting,a ruined amphitheater,Ruins,0.5256528854370117
+symbol,a key that hums,Humming,0.558156430721283
+feeling,excitement,Happiness,0.6871755719184875
+metaphor,escaping expectations,Escape,0.550603985786438
+creative_spark,a sculptural installation,Decorating,0.5860593318939209
+user_action,read the letter,Letters,0.5189633369445801
+setting,a bridge suspended in starlight,Skylights,0.4863824248313904
+symbol,a compass spinning wildly,Compass,0.6842892169952393
+feeling,bewilderment,Frustration,0.6517074704170227
+metaphor,building a foundation,Foundation,0.6374722719192505
+creative_spark,a soundscape composition,Sound,0.5156559348106384
+user_action,trace the dream map,Map,0.5695578455924988
+setting,an endless staircase,Spiral Staircase,0.7972401976585388
+symbol,a letter from the future,Future,0.5657208561897278
+feeling,grief,Grief,1.0000001192092896
+metaphor,saying goodbye,Goodbye,0.7755767107009888
+creative_spark,a graphic novel scene,Comic Book Store,0.49455663561820984
+user_action,wear the shifting mask,Mask,0.652378261089325
+setting,a lake that reflects the sky,Lake,0.6132308840751648
+symbol,a crown of feathers,Feathers,0.7036499977111816
+feeling,contentment,Happiness,0.8064122796058655
+metaphor,accepting impermanence,Reincarnation,0.48271292448043823
+creative_spark,a dance performance theme,Ballet,0.5666350722312927
+user_action,draw with the bone pen,Drawing,0.5961052179336548
+setting,a candlelit cavern,Cave,0.6510500311851501
+symbol,a ring with shifting colors,Ring,0.5773348808288574
+feeling,dread,Dreadlocks,0.63872891664505
+metaphor,resisting temptation,Temptation,0.8207231760025024
+creative_spark,a photographic motif,Photographs,0.57939213514328
+user_action,sing to the beetle,Beetles,0.5389986634254456
+setting,a field of mechanical flowers,Petals,0.5839210748672485
+symbol,a puppet with no strings,Puppeteer,0.6160365343093872
+feeling,amazement,Shock,0.5944280624389648
+metaphor,rewriting fate,Reincarnation,0.4137480854988098
+creative_spark,a typography experiment,Typing,0.5112680792808533
+user_action,light the floating lantern,Lantern,0.6413930058479309
+setting,a treehouse in the clouds,Treehouse,0.7571027278900146
+symbol,a coin that flips itself,Coins,0.4829694628715515
+feeling,vulnerability,Weakness,0.5986343622207642
+metaphor,walking between worlds,Parallel World,0.5715987086296082
+creative_spark,an architectural blueprint,Blueprints,0.5590676665306091
+user_action,unlock the puppet chest,Puppeteer,0.5560681819915771
+setting,a windmill that hums with music,Windmill,0.6597847938537598
+symbol,a map of dreams,Dreams,0.6672387719154358
+feeling,euphoria,Joy,0.662224292755127
+metaphor,questioning reality,Philosophy,0.5418397188186646
+creative_spark,a perfume concept,Perfume,0.7958310842514038
+user_action,drink from the cloud jar,Jar,0.5892640948295593
+setting,a tunnel of glowing vines,Tunnels,0.6051644682884216
+symbol,a book that writes back,Spell Book,0.5771937966346741
+feeling,solitude,Isolation,0.6857735514640808
+metaphor,bridging past and future,Future,0.6009674668312073
+creative_spark,a tarot card design,Tarot Cards,0.7729634642601013
+user_action,walk across the star bridge,Golden Gate Bridge,0.605072557926178
+setting,a shipwreck in space,Shipwreck,0.6632832288742065
+symbol,a cloud in a jar,Jar,0.7004244327545166
+feeling,clarity,Clear,0.5807804465293884
+metaphor,remembering what was lost,Memories,0.5355952382087708
+creative_spark,a film treatment,Film,0.6595262885093689
+user_action,stand under the humming windmill,Windmill,0.6885902285575867
+setting,a dream-market full of masks,Mask,0.5762724280357361
+symbol,a glowing beetle,Beetles,0.6363640427589417
+feeling,tension,Stress,0.646328866481781
+metaphor,exploring unseen potential,Explore,0.46158820390701294
+creative_spark,a comic strip punchline,Comedy,0.45333734154701233
+user_action,trade a secret at the mask market,Mask,0.5969521999359131
+setting,a train without tracks,Railway Tracks,0.7173829674720764
+symbol,a lantern that floats,Lantern,0.6673622131347656
+feeling,reverence,Respect,0.7283379435539246
+metaphor,bearing witness,Witness,0.7581377625465393
+creative_spark,a magical realism vignette,Magic,0.4816337525844574
+user_action,board the trackless train,Train Tracks,0.6588650345802307
+setting,a door floating in fog,Fog,0.5966948866844177
+symbol,a pen made of bone,Pen Knife,0.5905956029891968
+feeling,hope,Hope,1.0000001192092896
+metaphor,reclaiming self,Reincarnation,0.5342062711715698
+creative_spark,a childrens book scenario,Coloring Book,0.4681870639324188
+user_action,step through the fog door,Fog,0.6385003328323364
